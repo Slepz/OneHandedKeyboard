@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneHandedKeyboard", "OneHandedKeyboard\OneHandedKeyboard.csproj", "{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}"
+EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "Installer", "Installer\Installer.wixproj", "{43CC79A2-C982-440B-BCE4-1B1EF2066D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Debug|x86.Build.0 = Debug|Any CPU
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Release|x86.ActiveCfg = Release|Any CPU
+		{42B9C44D-A1C2-4DFB-B9BD-33BD395ADA09}.Release|x86.Build.0 = Release|Any CPU
+		{43CC79A2-C982-440B-BCE4-1B1EF2066D90}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{43CC79A2-C982-440B-BCE4-1B1EF2066D90}.Debug|x86.ActiveCfg = Debug|x86
+		{43CC79A2-C982-440B-BCE4-1B1EF2066D90}.Debug|x86.Build.0 = Debug|x86
+		{43CC79A2-C982-440B-BCE4-1B1EF2066D90}.Release|Any CPU.ActiveCfg = Release|x86
+		{43CC79A2-C982-440B-BCE4-1B1EF2066D90}.Release|x86.ActiveCfg = Release|x86
+		{43CC79A2-C982-440B-BCE4-1B1EF2066D90}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F1179E-F488-4796-AB00-B187C1F85B0B}
+	EndGlobalSection
+EndGlobal
